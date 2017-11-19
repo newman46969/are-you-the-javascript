@@ -115,17 +115,17 @@ var matchUps = [
 var truthBooths = [
   {
     "Ethan": {
-      "Keyana": true
+      "Keyana": false
     }
   },
   {
     "Anthony": {
-      "Geles": true
+      "Geles": false
     }
   },
   {
     "Malcolm": {
-      "Nurys": true
+      "Nurys": false
     }
   }
 ];
